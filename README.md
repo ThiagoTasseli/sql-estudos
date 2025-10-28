@@ -9,7 +9,7 @@ O objetivo é consolidar o aprendizado com exemplos práticos, consultas comenta
 
 📁 **SQL Studies**  
 │  
-├── 📂 ** Comandos Essenciais de Consulta de Dados**  
+├── 📂 Comandos Essenciais de Consulta de Dados**  
 │   Consultas básicas utilizando comandos fundamentais como:
 │   - `SELECT`, `WHERE`, `BETWEEN`, `IN`, `LIKE`, `NOT BETWEEN`
 │   - Ordenação com `ORDER BY`
@@ -17,19 +17,19 @@ O objetivo é consolidar o aprendizado com exemplos práticos, consultas comenta
 │   - Criação de colunas calculadas e alias com `AS`
 │   - Filtro de dados com expressões condicionais
 │  
-├── 📂 ** Funções de Agregação/Agrupamento e Condição**  
+├── 📂 Funções de Agregação/Agrupamento e Condição**  
 │   Conteúdo futuro: exemplos com `COUNT`, `SUM`, `AVG`, `MIN`, `MAX` e `GROUP BY`  
 │   (em breve)  
 │  
-├── 📂 ** Combinando Dados com JOINs**  
+├── 📂 Combinando Dados com JOINs**  
 │   Conteúdo futuro: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`  
 │   (em breve)  
 │  
-├── 📂 ** Subqueries e CTEs (Common Table Expressions)**  
+├── 📂 Subqueries e CTEs (Common Table Expressions)**  
 │   Conteúdo futuro: consultas aninhadas e expressões de tabela comuns (`WITH`)  
 │   (em breve)  
 │  
-└── 📂 ** Conclusão**  
+└── 📂 Conclusão**  
   Resumo dos principais aprendizados e boas práticas SQL.
 
 ---
