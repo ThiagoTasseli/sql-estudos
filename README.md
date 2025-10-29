@@ -5,32 +5,15 @@ O objetivo é consolidar o aprendizado com exemplos práticos, consultas comenta
 
 ---
 
-## 🧭 Estrutura do Repositório
+## 📚 Estrutura do Repositório
 
-📁 **SQL Studies**  
-│  
-├── 📂 Comandos Essenciais de Consulta de Dados**  
-│   Consultas básicas utilizando comandos fundamentais como:
-│   - `SELECT`, `WHERE`, `BETWEEN`, `IN`, `LIKE`, `NOT BETWEEN`
-│   - Ordenação com `ORDER BY`
-│   - Limitação de resultados com `LIMIT`
-│   - Criação de colunas calculadas e alias com `AS`
-│   - Filtro de dados com expressões condicionais
-│  
-├── 📂 Funções de Agregação/Agrupamento e Condição**  
-│   Conteúdo futuro: exemplos com `COUNT`, `SUM`, `AVG`, `MIN`, `MAX` e `GROUP BY`  
-│   (em breve)  
-│  
-├── 📂 Combinando Dados com JOINs**  
-│   Conteúdo futuro: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`  
-│   (em breve)  
-│  
-├── 📂 Subqueries e CTEs (Common Table Expressions)**  
-│   Conteúdo futuro: consultas aninhadas e expressões de tabela comuns (`WITH`)  
-│   (em breve)  
-│  
-└── 📂 Conclusão**  
-  Resumo dos principais aprendizados e boas práticas SQL.
+| 📁 Módulo | 🔗 Link |
+|-----------|---------|
+| 🏁 01 - Comandos Essenciais de Consulta de Dados | [01_Comandos_Essenciais_de_Consulta_de_Dados](./01_Comandos_Essenciais_de_Consulta_de_Dados/) |
+| 🔢 02 - Funções, Agregação e Agrupamento | [02_Funcoes_Agregacao_e_Agrupamento](./02_Funcoes_Agregacao_e_Agrupamento/) |
+| 🔗 03 - JOINs | [03_Joins](./03_Joins/) |
+| 🧩 04 - Subqueries e CTEs | [04_Subqueries_e_CTEs](./04_Subqueries_e_CTEs/) |
+| 🏁 05 - Conclusão | [05_Conclusao](./05_Conclusao/) |
 
 ---
 
@@ -55,19 +38,14 @@ Cada arquivo `.sql` contém exemplos práticos e comentados para facilitar a com
 ## 🧩 Tecnologias Utilizadas
 
 - Banco de dados: **MySQL / PostgreSQL (compatível)**  
-- Ambiente: **DBeaver / Beekeeper / VS Code (extensão SQL Tools)**  
+- Ambiente: **MySQL Workbench 8.0 CE**  
 - Versionamento: **Git e GitHub**
 
 ---
 
-## 📌 Próximos Passos
+## 🧑‍💻 Autor
 
-- [ ] Adicionar consultas com funções de agregação (`COUNT`, `SUM`, `AVG`, etc.)  
-- [ ] Criar exemplos com `JOINs` para combinar dados de múltiplas tabelas  
-- [ ] Explorar **Subqueries** e **CTEs**  
-- [ ] Adicionar desafios SQL resolvidos  
-
----
-
-📚 **Autor:** Thiago Tasseli  
-💼 **Objetivo:** Aprendizado contínuo e portfólio técnico em SQL
+**Thiago Tasseli**  
+Desenvolvedor Web & Entusiasta de Banco de Dados  
+📫 [LinkedIn](https://www.linkedin.com/in/thiagotasseli-tech)  
+🐙 [GitHub](https://github.com/tasselii)
