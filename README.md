@@ -38,7 +38,7 @@ Cada arquivo `.sql` contém exemplos práticos e comentados para facilitar a com
 ## 🧩 Tecnologias Utilizadas
 
 - Banco de dados: **MySQL / PostgreSQL (compatível)**  
-- Ambiente: **MySQL Workbench 8.0 CE**  
+- Ambiente: **[SqlLiteOnline](https://sqliteonline.com/), MySQL Workbench 8.0 CE**  
 - Versionamento: **Git e GitHub**
 
 ---
