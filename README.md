@@ -48,4 +48,4 @@ Cada arquivo `.sql` contém exemplos práticos e comentados para facilitar a com
 **Thiago Tasseli**  
 Desenvolvedor Web & Entusiasta de Banco de Dados  
 📫 [LinkedIn](https://www.linkedin.com/in/thiagotasseli-tech)  
-🐙 [GitHub](https://github.com/tasselii)
+🐙 [GitHub](https://github.com/ThiagoTasseli)
